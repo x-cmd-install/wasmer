@@ -1,0 +1,70 @@
+about:
+  description: 🚀 Fast, secure, lightweight containers based on WebAssembly
+  license: MIT
+  homepage: https://wasmer.io
+  head: 32b50f8
+  archived: false
+  latestVersion: v7.4.0
+  collectedAt: 2026-09-01T04:57:53Z
+timeline:
+  created: 2018-10-11
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 21001
+  watcher: 192
+  fork: 999
+  release: 140
+  contributor: 239
+  pullRequest: 885
+  issue: 2408
+language:
+  Rust: 11183606
+  C: 544009
+  C++: 216194
+  HTML: 199645
+  Shell: 86245
+  Python: 49180
+  Makefile: 39669
+  Nix: 11373
+  JavaScript: 5241
+  Swift: 4867
+  Inno Setup: 3069
+  Dockerfile: 320
+  PHP: 310
+  Batchfile: 30
+  RenderScript: 3
+totalLine: 12343761
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 3
+    mergedPR: 51
+    openPR: 30
+    closedIssue: 12
+    openIssue: 9
+    commit: 106
+  last90d:
+    since: 2026-06-03
+    release: 6
+    mergedPR: 146
+    openPR: 36
+    closedIssue: 38
+    openIssue: 23
+    commit: 352
+  last180d:
+    since: 2026-03-05
+    release: 13
+    mergedPR: 359
+    openPR: 44
+    closedIssue: 96
+    openIssue: 98
+    commit: 798
+  last360d:
+    since: 2025-09-06
+    release: 22
+    mergedPR: 686
+    openPR: 44
+    closedIssue: 204
+    openIssue: 144
+    commit: 1784
