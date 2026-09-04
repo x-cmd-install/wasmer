@@ -7,7 +7,7 @@ about:
   head: 38f3932
   archived: false
   latestVersion: v7.4.0
-  collectedAt: 2026-09-04T19:27:07Z
+  collectedAt: 2026-09-04T21:05:01Z
 timeline:
   created: 2018-10-11
   lastCommit: 2026-09-03
@@ -94,6 +94,129 @@ total:
   openIssue: 206
   commit: 20874
 ---
+path: /home/runner/.x-repo/github.com/wasmerio/wasmer
+collectedAt: 2026-09-04T21:07:59Z
+loc:
+  Rust:
+    code: 264860
+    comments: 11374
+    blanks: 31542
+    files: 1211
+  C:
+    code: 15862
+    comments: 1078
+    blanks: 3398
+    files: 290
+  Graphql:
+    code: 7675
+    comments: 0
+    blanks: 707
+    files: 1
+  Cpp:
+    code: 5174
+    comments: 356
+    blanks: 1194
+    files: 64
+  Toml:
+    code: 2793
+    comments: 320
+    blanks: 357
+    files: 46
+  WebAssembly:
+    code: 1955
+    comments: 106
+    blanks: 228
+    files: 51
+  Sh:
+    code: 1595
+    comments: 480
+    blanks: 550
+    files: 179
+  Python:
+    code: 1355
+    comments: 48
+    blanks: 249
+    files: 9
+  CHeader:
+    code: 1023
+    comments: 148
+    blanks: 442
+    files: 20
+  Json:
+    code: 997
+    comments: 0
+    blanks: 0
+    files: 4
+  Makefile:
+    code: 675
+    comments: 202
+    blanks: 171
+    files: 3
+  CppHeader:
+    code: 592
+    comments: 42
+    blanks: 230
+    files: 11
+  Svg:
+    code: 303
+    comments: 38
+    blanks: 0
+    files: 25
+  Nix:
+    code: 271
+    comments: 32
+    blanks: 42
+    files: 3
+  JavaScript:
+    code: 186
+    comments: 3
+    blanks: 19
+    files: 3
+  Html:
+    code: 182
+    comments: 0
+    blanks: 1
+    files: 2
+  Swift:
+    code: 54
+    comments: 51
+    blanks: 34
+    files: 4
+  Dockerfile:
+    code: 18
+    comments: 0
+    blanks: 0
+    files: 1
+  Php:
+    code: 16
+    comments: 0
+    blanks: 3
+    files: 2
+  Yaml:
+    code: 9
+    comments: 0
+    blanks: 0
+    files: 4
+  Batch:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 7194
+    blanks: 2502
+    files: 68
+  Text:
+    code: 0
+    comments: 11164
+    blanks: 4986
+    files: 52
+total:
+  code: 307346
+  comments: 49339
+  blanks: 49787
+  files: 2054
 ---
 date: "2026-08-24"
 repo:
