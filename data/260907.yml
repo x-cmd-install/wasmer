@@ -5,7 +5,7 @@ about:
   head: 1e9d585
   archived: false
   latestVersion: "v7.4.0"
-  collectedAt: 2026-09-07T05:33:00Z
+  collectedAt: 2026-09-07T18:50:59Z
 timeline:
   created: 2018-10-11
   lastCommit: 2026-09-04
@@ -16,7 +16,7 @@ popularity:
   fork: 1004
   release: 140
   contributor: 238
-  pullRequest: 4354
+  pullRequest: 4355
   issue: 2411
 language:
   Rust: 11165628
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-08
     release: 3
     mergedPR: 43
-    openPR: 33
+    openPR: 34
     closedIssue: 5
     openIssue: 10
     commit: 82
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-09
     release: 4
     mergedPR: 85
-    openPR: 35
+    openPR: 36
     closedIssue: 23
     openIssue: 15
     commit: 197
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-09
     release: 6
     mergedPR: 134
-    openPR: 39
+    openPR: 40
     closedIssue: 37
     openIssue: 25
     commit: 325
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-11
     release: 13
     mergedPR: 353
-    openPR: 48
+    openPR: 49
     closedIssue: 93
     openIssue: 98
     commit: 754
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-12
     release: 22
     mergedPR: 688
-    openPR: 48
+    openPR: 49
     closedIssue: 198
     openIssue: 145
     commit: 1739
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-17
     release: 38
     mergedPR: 991
-    openPR: 48
+    openPR: 49
     closedIssue: 430
     openIssue: 193
     commit: 2818
 total:
   release: 140
   mergedPR: 3464
-  openPR: 48
+  openPR: 49
   closedIssue: 2204
   openIssue: 207
   commit: 20877
 ---
 path: /home/runner/.x-repo/github.com/wasmerio/wasmer
-collectedAt: 2026-09-07T05:39:55Z
+collectedAt: 2026-09-07T18:57:59Z
 loc:
   Rust:
     code: 264860
@@ -459,7 +459,7 @@ checks:
       - 'Warn: 0 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:39:56+00:00
+  collectedAt: 2026-09-07T18:58:01+00:00
   platform:
     darwin/arm64:
       name:  wasmer-darwin-arm64.tar.gz
