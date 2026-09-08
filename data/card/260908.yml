@@ -5,7 +5,7 @@ about:
   head: 1e9d585
   archived: false
   latestVersion: "v7.4.0"
-  collectedAt: 2026-09-08T02:59:28Z
+  collectedAt: 2026-09-08T05:42:17Z
 timeline:
   created: 2018-10-11
   lastCommit: 2026-09-04
@@ -16,7 +16,7 @@ popularity:
   fork: 1004
   release: 140
   contributor: 238
-  pullRequest: 4358
+  pullRequest: 4366
   issue: 2411
 language:
   Rust: 11165628
@@ -40,7 +40,7 @@ recent:
     since: 2026-08-09
     release: 3
     mergedPR: 43
-    openPR: 37
+    openPR: 45
     closedIssue: 5
     openIssue: 10
     commit: 82
@@ -48,7 +48,7 @@ recent:
     since: 2026-07-10
     release: 4
     mergedPR: 83
-    openPR: 39
+    openPR: 47
     closedIssue: 23
     openIssue: 15
     commit: 197
@@ -56,7 +56,7 @@ recent:
     since: 2026-06-10
     release: 6
     mergedPR: 129
-    openPR: 43
+    openPR: 51
     closedIssue: 37
     openIssue: 23
     commit: 325
@@ -64,7 +64,7 @@ recent:
     since: 2026-03-12
     release: 13
     mergedPR: 346
-    openPR: 52
+    openPR: 60
     closedIssue: 92
     openIssue: 98
     commit: 754
@@ -72,7 +72,7 @@ recent:
     since: 2025-09-13
     release: 22
     mergedPR: 688
-    openPR: 52
+    openPR: 60
     closedIssue: 198
     openIssue: 145
     commit: 1739
@@ -80,20 +80,20 @@ recent:
     since: 2024-09-18
     release: 38
     mergedPR: 990
-    openPR: 52
+    openPR: 60
     closedIssue: 430
     openIssue: 193
     commit: 2815
 total:
   release: 140
   mergedPR: 3464
-  openPR: 52
+  openPR: 60
   closedIssue: 2204
   openIssue: 207
   commit: 20877
 ---
 path: /home/runner/.x-repo/github.com/wasmerio/wasmer
-collectedAt: 2026-09-08T03:08:43Z
+collectedAt: 2026-09-08T05:50:30Z
 loc:
   Rust:
     code: 264860
