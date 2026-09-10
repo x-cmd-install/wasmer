@@ -12,7 +12,7 @@
 x install wasmer
 ```
 
-## 代码规模
+## 代码洞察
 
 合计: **305,721** 行代码（覆盖前 5 种语言、共 **1612** 个文件）。
 
@@ -63,7 +63,7 @@ x install wasmer
 | 90d | 2026-06-12 | 7 | 124 | 50 | 37 | 28 | 332 |
 | last180d | 2026-03-14 | 14 | 346 | 60 | 92 | 103 | 761 |
 | 360d | 2025-09-15 | 23 | 690 | 60 | 197 | 150 | 1746 |
-| last720d | 2024-09-20 | 39 | 991 | 60 | 427 | 197 | 1 |
+| last720d | 2024-09-20 | 39 | 991 | 60 | 427 | 197 | 2817 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T21:43:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T22:36:42Z._
