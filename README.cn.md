@@ -4,42 +4,13 @@
 
 🚀 Fast, secure, lightweight containers based on WebAssembly
 
-![wasmer](https://repo.x-cmd.io/wasmer.svg)
+![wasmer](https://repo.x-cmd.io/wasmer.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install wasmer
 ```
-
-## 源代码
-
-- **上游仓库**: <https://github.com/wasmerio/wasmer>
-- **官网**: <https://wasmer.io>
-- **许可证**: MIT
-
-## 发布
-
-- **最新版本**: `v7.4.1` (2026-09-08)
-- **最近提交**: 2026-09-08
-- **Release 含资产**: 8 个
-- **发布时间**: 2026-09-08T14:01:19Z
-
-## 流行度
-
-- **Star**: 21,025 · **Fork**: 1,005 · **开放 issue**: 2,414 · **贡献者**: 238
-
-## 累计统计
-
-- **发布数**: 141 · **已合并 PR**: 3467 · **开放 PR**: 59 · **已关闭 issue**: 2205 · **开放 issue**: 209 · **提交数**: 20882
-
-## 最近活动
-
-| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 45 | 44 | 5 | 13 | 89 |
-| 90d | 2026-06-12 | 7 | 124 | 49 | 37 | 26 | 332 |
-| 360d | 2025-09-15 | 23 | 690 | 59 | 197 | 148 | 1746 |
 
 ## 代码规模
 
@@ -63,6 +34,60 @@ x install wasmer
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
+## 源代码
+
+- **上游仓库**: <https://github.com/wasmerio/wasmer>
+- **官网**: <https://wasmer.io>
+- **许可证**: MIT
+
+## 发布
+
+- **最新版本**: `v7.4.1` (2026-09-08)
+- **最近提交**: 2026-09-08
+- **Release 含资产**: 8 个
+
+## 流行度
+
+- **Star**: 21,024 · **Fork**: 1,005 · **开放 issue**: 2,416 · **贡献者**: 238
+
+## 累计统计
+
+- **发布数**: 141 · **已合并 PR**: 3467 · **开放 PR**: 60 · **已关闭 issue**: 2205 · **开放 issue**: 211 · **提交数**: 20882
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 4 | 45 | 45 | 5 | 15 | 89 |
+| last60d | 2026-07-12 | 5 | 86 | 47 | 23 | 17 | 204 |
+| 90d | 2026-06-12 | 7 | 124 | 50 | 37 | 28 | 332 |
+| last180d | 2026-03-14 | 14 | 346 | 60 | 92 | 103 | 761 |
+| 360d | 2025-09-15 | 23 | 690 | 60 | 197 | 150 | 1746 |
+| last720d | 2024-09-20 | 39 | 991 | 60 | 427 | 197 | 1 |
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [wasmer-darwin-arm64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-darwin-arm64.tar.gz) | 275.7 MiB | `native/darwin/arm64` |
+| [wasmer-full-source.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-full-source.tar.gz) | 135.0 MiB | `native/unknown` |
+| [wasmer-linux-aarch64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-aarch64.tar.gz) | 275.5 MiB | `native/linux/arm64` |
+| [wasmer-linux-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-amd64.tar.gz) | 291.9 MiB | `native/linux/x64` |
+| [wasmer-linux-riscv64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-riscv64.tar.gz) | 91.9 MiB | `native/linux/riscv64` |
+| [wasmer-windows-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows-amd64.tar.gz) | 165.3 MiB | `native/win/x64` |
+| [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows-gnu64.tar.gz) | 136.6 MiB | `native/win/x64` |
+| [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows.exe) | 109.6 MiB | `native/win/x64` |
+
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/wasmer) 上共有 **36** 个发行版报告此项目。**7** 个 ✅ 已是最新上游版本，**13** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Arch | `7.4.1` | ✅ latest |
+| Homebrew | `HEAD` | 🔄 rolling |
+| Nix unstable | `7.4.0` | ⚠️ outdated |
+
 ## 改进这些数据
 
 wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wasmer` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -72,4 +97,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:58:30Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:43:12Z._
