@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 306129264,
       "digest": "sha256:26b25d3ac9046060a3f82f8fde34f621dbef5b73161dcf1771b38158a4d4196a",
-      "download_count": 1772,
+      "download_count": 1807,
       "created_at": "2026-09-08T13:42:14Z",
       "updated_at": "2026-09-08T13:42:23Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-amd64.tar.gz"

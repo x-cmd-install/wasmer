@@ -7,7 +7,7 @@ about:
   latestVersion: "v7.4.1"
   latestRelease: "v7.4.1"
   latestPrerelease: "v7.3.0-rc.1"
-  collectedAt: 2026-09-10T21:34:16Z
+  collectedAt: 2026-09-10T22:28:29Z
 timeline:
   created: 2018-10-11
   lastCommit: 2026-09-08
@@ -87,7 +87,7 @@ recent:
     openPR: 60
     closedIssue: 427
     openIssue: 197
-    commit: 1
+    commit: 2817
 total:
   release: 141
   mergedPR: 3467
@@ -97,7 +97,7 @@ total:
   commit: 20882
 ---
 path: /home/runner/.x-repo/github.com/wasmerio/wasmer
-collectedAt: 2026-09-10T21:42:23Z
+collectedAt: 2026-09-10T22:35:54Z
 loc:
   Rust:
     code: 264984
