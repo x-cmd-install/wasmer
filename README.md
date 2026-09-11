@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,024 · **Forks**: 1,005 · **Open issues**: 2,416 · **Contributors**: 238
+- **Stars**: 21,025 · **Forks**: 1,004 · **Open issues**: 2,416 · **Contributors**: 238
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 4 | 45 | 45 | 5 | 15 | 89 |
-| last60d | 2026-07-12 | 5 | 86 | 47 | 23 | 17 | 204 |
-| 90d | 2026-06-12 | 7 | 124 | 50 | 37 | 28 | 332 |
-| last180d | 2026-03-14 | 14 | 346 | 60 | 92 | 103 | 761 |
-| 360d | 2025-09-15 | 23 | 690 | 60 | 197 | 150 | 1746 |
-| last720d | 2024-09-20 | 39 | 991 | 60 | 427 | 197 | 2817 |
+| 30d | 2026-08-12 | 4 | 45 | 45 | 5 | 15 | 89 |
+| last60d | 2026-07-13 | 5 | 86 | 47 | 22 | 17 | 204 |
+| 90d | 2026-06-13 | 7 | 124 | 49 | 36 | 28 | 332 |
+| last180d | 2026-03-15 | 14 | 346 | 59 | 92 | 103 | 761 |
+| 360d | 2025-09-16 | 23 | 688 | 60 | 194 | 150 | 1746 |
+| last720d | 2024-09-21 | 39 | 991 | 60 | 427 | 197 | 2813 |
 
 ## Release assets
 
@@ -80,12 +80,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/wasmer). **7** are ✅ on the latest upstream release, **13** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/wasmer). **8** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `7.4.1` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `7.4.1` | ✅ latest |
 | Nix unstable | `7.4.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -97,4 +97,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:36:42Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:54:39Z._
