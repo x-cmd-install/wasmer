@@ -1,72 +1,15 @@
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: wasmer
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.4.1
-  origversion: 7.4.1-1
-  status: newest
-  summary: Universal Binaries Powered by WebAssembly
-  licenses:
-    - MIT
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: wasmer
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.4.0
-  origversion: 7.4.0-1
-  status: outdated
-  summary: Universal Binaries Powered by WebAssembly
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: wasmer
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.4.0
-  origversion: 7.4.0-1
-  status: outdated
-  summary: Universal Binaries Powered by WebAssembly
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: wasmer
-  visiblename: wasmer
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Universal WebAssembly Runtime
-- repo: arch
-  subrepo: extra
-  srcname: wasmer
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.4.1
-  origversion: 7.4.1-1
-  status: newest
-  summary: Universal Binaries Powered by WebAssembly
-  licenses:
-    - MIT
-- repo: aur
-  srcname: wasmer-git
-  binname: wasmer-git
-  visiblename: wasmer-git
-  version: 7.0.1.r24.gb5064acd2f2
-  origversion: 7.0.1.r24.gb5064acd2f2-1
-  status: rolling
-  summary: Standalone JIT WebAssembly runtime
-  maintainers:
-    - chocobo1@aur
-  licenses:
-    - MIT
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
-  version: 5.0.0
+  version: 3.1.0
   origversion: null
-  status: outdated
+  status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 3.0.2
+  origversion: null
+  status: legacy
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
@@ -77,6 +20,24 @@
   srcname: wasmer
   visiblename: wasmer
   version: 4.3.3
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 2.3.0
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 2.2.0
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 2.1.1
   origversion: null
   status: legacy
 - repo: conancenter
@@ -121,36 +82,46 @@
   version: 3.2.1
   origversion: null
   status: legacy
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: wasmer
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.4.1
+  origversion: 7.4.1-1
+  status: newest
+  summary: Universal Binaries Powered by WebAssembly
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: wasmer
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.4.1
+  origversion: 7.4.1-1
+  status: newest
+  summary: Universal Binaries Powered by WebAssembly
+  licenses:
+    - MIT
+- repo: aur
+  srcname: wasmer-git
+  binname: wasmer-git
+  visiblename: wasmer-git
+  version: 7.0.1.r24.gb5064acd2f2
+  origversion: 7.0.1.r24.gb5064acd2f2-1
+  status: rolling
+  summary: Standalone JIT WebAssembly runtime
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - MIT
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
-  version: 3.1.0
+  version: 5.0.0
   origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 3.0.2
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 2.3.0
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 2.2.0
-  origversion: null
-  status: legacy
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 2.1.1
-  origversion: null
-  status: legacy
+  status: outdated
 - repo: freebsd
   srcname: devel/wasmer
   binname: wasmer
@@ -170,6 +141,13 @@
   origversion: null
   status: newest
   summary: Universal WebAssembly Runtime
+- repo: homebrew
+  srcname: wasmer
+  visiblename: wasmer
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Universal WebAssembly Runtime
 - repo: macports
   srcname: lang/wasmer
   binname: wasmer
@@ -184,6 +162,28 @@
     - MIT
   categories:
     - lang
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: wasmer
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.4.0
+  origversion: 7.4.0-1
+  status: outdated
+  summary: Universal Binaries Powered by WebAssembly
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: wasmer
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.4.1
+  origversion: 7.4.1-1
+  status: newest
+  summary: Universal Binaries Powered by WebAssembly
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: wasmer
   visiblename: wasmer
