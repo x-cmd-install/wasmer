@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 4 | 45 | 46 | 5 | 15 | 89 |
-| last60d | 2026-07-13 | 5 | 86 | 48 | 22 | 17 | 204 |
-| 90d | 2026-06-13 | 7 | 124 | 50 | 36 | 28 | 332 |
-| last180d | 2026-03-15 | 14 | 346 | 60 | 92 | 103 | 761 |
-| 360d | 2025-09-16 | 23 | 688 | 61 | 194 | 150 | 1746 |
-| last720d | 2024-09-21 | 39 | 991 | 61 | 428 | 196 | 2813 |
+| 30d | 2026-08-13 | 4 | 40 | 45 | 5 | 15 | 89 |
+| last60d | 2026-07-14 | 5 | 86 | 48 | 22 | 17 | 204 |
+| 90d | 2026-06-14 | 7 | 123 | 50 | 36 | 28 | 332 |
+| last180d | 2026-03-16 | 14 | 341 | 59 | 91 | 101 | 761 |
+| 360d | 2025-09-17 | 23 | 684 | 61 | 191 | 149 | 1746 |
+| last720d | 2024-09-22 | 39 | 991 | 61 | 428 | 196 | 2813 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:07:41Z._
+_Snapshot: `data/card/260912.yml` · 2026-09-12T05:40:18Z._
