@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 289040602,
       "digest": "sha256:8e9a56975ad50260892157eb7fc08ab471e44ad9dd74b8a98ecc7481e7f819a2",
-      "download_count": 51,
+      "download_count": 55,
       "created_at": "2026-09-08T13:42:42Z",
       "updated_at": "2026-09-08T13:42:49Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 288884419,
       "digest": "sha256:544ca22fa8ac881c789cbdbc83ee527ddc391a359cbca192713fe0f6df5fed37",
-      "download_count": 17,
+      "download_count": 20,
       "created_at": "2026-09-08T13:42:24Z",
       "updated_at": "2026-09-08T13:42:31Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 306129264,
       "digest": "sha256:26b25d3ac9046060a3f82f8fde34f621dbef5b73161dcf1771b38158a4d4196a",
-      "download_count": 2553,
+      "download_count": 2946,
       "created_at": "2026-09-08T13:42:14Z",
       "updated_at": "2026-09-08T13:42:23Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-linux-amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 173349816,
       "digest": "sha256:59ea42769d5db0070977266c14429061ea3f1d66625fcab0a4795187483331a7",
-      "download_count": 92,
+      "download_count": 100,
       "created_at": "2026-09-08T13:42:07Z",
       "updated_at": "2026-09-08T13:42:14Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows-amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 114920976,
       "digest": "sha256:4db1e1bb5d824129e7555c4eae2c98b7c75d36584f6e60f0c53f059956ba545b",
-      "download_count": 282,
+      "download_count": 314,
       "created_at": "2026-09-08T13:41:58Z",
       "updated_at": "2026-09-08T13:42:02Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows.exe"
@@ -330,8 +330,8 @@
   "body": "> [!IMPORTANT]\r\n> For packaging purposes, use the provided `wasmer-full-source.tar.xz`, which includes all required submodules.\r\n\r\nThis release includes:\r\n- env file support added to deploy command\r\n\r\nSee full list of changes in the [CHANGELOG](https://github.com/wasmerio/wasmer/blob/release-7.4/CHANGELOG.md#741---08092026)\r\n\r\nInstall this version of wasmer:\r\n\r\n```sh\r\ncurl https://get.wasmer.io -sSfL | sh -s \"v7.4.1\"\r\n```",
   "reactions": {
     "url": "https://api.github.com/repos/wasmerio/wasmer/releases/384764009/reactions",
-    "total_count": 3,
-    "+1": 2,
+    "total_count": 4,
+    "+1": 3,
     "-1": 0,
     "laugh": 0,
     "hooray": 1,
