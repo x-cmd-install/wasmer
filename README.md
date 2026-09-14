@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,027 · **Forks**: 1,004 · **Open issues**: 2,416 · **Contributors**: 238
+- **Stars**: 21,026 · **Forks**: 1,006 · **Open issues**: 2,417 · **Contributors**: 238
 
 ## Totals (cumulative)
 
-- **Releases**: 141 · **Merged PRs**: 3467 · **Open PRs**: 61 · **Closed issues**: 2208 · **Open issues**: 208 · **Commits**: 20882
+- **Releases**: 141 · **Merged PRs**: 3467 · **Open PRs**: 62 · **Closed issues**: 2208 · **Open issues**: 209 · **Commits**: 20882
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 4 | 36 | 44 | 4 | 15 | 64 |
-| last60d | 2026-07-15 | 5 | 85 | 48 | 18 | 17 | 188 |
-| 90d | 2026-06-15 | 7 | 122 | 50 | 36 | 28 | 312 |
-| last180d | 2026-03-17 | 13 | 332 | 59 | 91 | 100 | 719 |
-| 360d | 2025-09-18 | 22 | 684 | 61 | 191 | 149 | 1724 |
-| last720d | 2024-09-23 | 39 | 989 | 61 | 428 | 195 | 2813 |
+| 30d | 2026-08-15 | 4 | 36 | 45 | 4 | 16 | 64 |
+| last60d | 2026-07-16 | 5 | 83 | 49 | 17 | 18 | 188 |
+| 90d | 2026-06-16 | 7 | 118 | 51 | 36 | 29 | 312 |
+| last180d | 2026-03-18 | 12 | 327 | 60 | 91 | 100 | 719 |
+| 360d | 2025-09-19 | 22 | 682 | 62 | 191 | 148 | 1724 |
+| last720d | 2024-09-24 | 39 | 987 | 62 | 424 | 196 | 2803 |
 
 ## Release assets
 
@@ -78,16 +78,6 @@ Lowest-scoring checks:
 | [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows-gnu64.tar.gz) | 136.6 MiB | `native/win/x64` |
 | [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.4.1/wasmer-windows.exe) | 109.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **36** distros on [repology.org](https://repology.org/project/wasmer). **8** are ✅ on the latest upstream release, **12** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `7.4.1` | ✅ latest |
-| Homebrew | `7.4.1` | ✅ latest |
-| Nix unstable | `7.4.0` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `wasmer` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -97,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:55:40Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:16:06Z._
