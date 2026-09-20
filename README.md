@@ -2,9 +2,9 @@
 
 [中文版本](./README.cn.md)
 
-🚀 Fast, secure, lightweight containers based on WebAssembly
+🚀 Fast and lightweight sandboxes for your apps and AI agents
 
-![wasmer](https://repo.x-cmd.io/wasmer.svg)
+[![x-cmd/install — wasmer Code Quality Monitoring Repo Card](https://repo.x-cmd.io/wasmer.svg)](https://x-cmd.com/install/wasmer)
 
 ## Install
 
@@ -14,7 +14,7 @@ x install wasmer
 
 ## Code insight
 
-Total: **306,070** lines of code across **1614** files in the top 5 languages.
+Total: **306,090** lines of code across **1614** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.4.2` (2026-09-16)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,036 · **Forks**: 1,007 · **Open issues**: 2,417 · **Contributors**: 238
+- **Stars**: 21,036 · **Forks**: 1,008 · **Open issues**: 2,417 · **Contributors**: 238
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 3476 · **Open PRs**: 55 · **Closed issues**: 2208 · **Open issues**: 209 · **Commits**: 20891
+- **Releases**: 142 · **Merged PRs**: 3477 · **Open PRs**: 58 · **Closed issues**: 2208 · **Open issues**: 209 · **Commits**: 20895
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 5 | 37 | 41 | 4 | 14 | 79 |
-| last60d | 2026-07-20 | 6 | 89 | 45 | 15 | 18 | 203 |
-| 90d | 2026-06-20 | 8 | 121 | 46 | 33 | 29 | 327 |
-| last180d | 2026-03-22 | 13 | 332 | 53 | 88 | 100 | 734 |
-| 360d | 2025-09-23 | 23 | 689 | 55 | 191 | 148 | 1739 |
-| last720d | 2024-09-28 | 40 | 994 | 55 | 420 | 196 | 2794 |
+| 30d | 2026-08-21 | 5 | 29 | 43 | 3 | 14 | 45 |
+| last60d | 2026-07-22 | 6 | 90 | 48 | 15 | 18 | 190 |
+| 90d | 2026-06-22 | 8 | 117 | 49 | 32 | 29 | 261 |
+| last180d | 2026-03-24 | 13 | 323 | 56 | 85 | 100 | 697 |
+| 360d | 2025-09-25 | 23 | 690 | 58 | 191 | 147 | 1707 |
+| last720d | 2024-09-30 | 40 | 995 | 58 | 419 | 196 | 2798 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:07:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:12:13Z._
