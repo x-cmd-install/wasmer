@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.4.2` (2026-09-16)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,052 · **Forks**: 1,011 · **Open issues**: 2,418 · **Contributors**: 238
+- **Stars**: 21,069 · **Forks**: 1,013 · **Open issues**: 2,418 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 3482 · **Open PRs**: 58 · **Closed issues**: 2211 · **Open issues**: 207 · **Commits**: 20900
+- **Releases**: 142 · **Merged PRs**: 3483 · **Open PRs**: 59 · **Closed issues**: 2211 · **Open issues**: 207 · **Commits**: 20902
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 3 | 30 | 43 | 3 | 15 | 52 |
-| last60d | 2026-07-25 | 5 | 88 | 48 | 15 | 19 | 197 |
-| 90d | 2026-06-25 | 7 | 117 | 49 | 28 | 30 | 268 |
-| last180d | 2026-03-27 | 13 | 318 | 56 | 82 | 99 | 704 |
-| 360d | 2025-09-28 | 23 | 692 | 58 | 191 | 148 | 1714 |
-| last720d | 2024-10-03 | 40 | 996 | 58 | 419 | 193 | 2794 |
+| 30d | 2026-08-25 | 3 | 29 | 44 | 1 | 15 | 54 |
+| last60d | 2026-07-26 | 5 | 89 | 49 | 15 | 19 | 199 |
+| 90d | 2026-06-26 | 7 | 116 | 50 | 27 | 29 | 270 |
+| last180d | 2026-03-28 | 11 | 319 | 57 | 82 | 99 | 706 |
+| 360d | 2025-09-29 | 23 | 691 | 59 | 188 | 147 | 1716 |
+| last720d | 2024-10-04 | 40 | 996 | 59 | 418 | 193 | 2780 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:25:27Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:47:43Z._
