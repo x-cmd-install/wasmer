@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,090 · **Forks**: 1,014 · **Open issues**: 2,421 · **Contributors**: 239
+- **Stars**: 21,095 · **Forks**: 1,014 · **Open issues**: 2,421 · **Contributors**: 239
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 3487 · **Open PRs**: 70 · **Closed issues**: 2212 · **Open issues**: 209 · **Commits**: 20908
+- **Releases**: 142 · **Merged PRs**: 3487 · **Open PRs**: 72 · **Closed issues**: 2212 · **Open issues**: 209 · **Commits**: 20908
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-27 | 3 | 29 | 43 | 1 | 13 | 61 |
-| last60d | 2026-07-28 | 5 | 87 | 59 | 15 | 22 | 207 |
-| 90d | 2026-06-28 | 7 | 120 | 61 | 27 | 31 | 278 |
-| last180d | 2026-03-30 | 11 | 315 | 68 | 82 | 102 | 714 |
-| 360d | 2025-10-01 | 23 | 688 | 70 | 183 | 150 | 1724 |
-| last720d | 2024-10-06 | 39 | 998 | 70 | 419 | 195 | 2766 |
+| 30d | 2026-08-28 | 3 | 25 | 40 | 1 | 13 | 42 |
+| last60d | 2026-07-29 | 5 | 85 | 61 | 14 | 22 | 175 |
+| 90d | 2026-06-29 | 7 | 120 | 63 | 27 | 31 | 261 |
+| last180d | 2026-03-31 | 11 | 311 | 70 | 82 | 101 | 690 |
+| 360d | 2025-10-02 | 23 | 688 | 72 | 183 | 150 | 1690 |
+| last720d | 2024-10-07 | 39 | 995 | 72 | 419 | 195 | 2766 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260926.yml` · 2026-09-26T06:04:19Z._
+_Snapshot: `data/card/260927.yml` · 2026-09-27T06:19:23Z._
