@@ -14,11 +14,11 @@ x install wasmer
 
 ## Code insight
 
-Total: **306,429** lines of code across **1614** files in the top 5 languages.
+Total: **306,590** lines of code across **1614** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 265,616 | 11,410 | 31,642 | 1212 |
+| Rust | 265,777 | 11,420 | 31,653 | 1212 |
 | C | 15,868 | 1,081 | 3,400 | 291 |
 | Graphql | 7,675 | 0 | 707 | 1 |
 | Cpp | 5,174 | 356 | 1,194 | 64 |
@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `v7.4.2` (2026-09-16)
-- **Last commit**: 2026-09-30
+- **Latest**: `v7.5.0` (2026-10-01)
+- **Last commit**: 2026-10-01
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,110 · **Forks**: 1,017 · **Open issues**: 2,422 · **Contributors**: 240
+- **Stars**: 21,112 · **Forks**: 1,018 · **Open issues**: 2,422 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 3495 · **Open PRs**: 80 · **Closed issues**: 2213 · **Open issues**: 209 · **Commits**: 20918
+- **Releases**: 144 · **Merged PRs**: 3500 · **Open PRs**: 81 · **Closed issues**: 2215 · **Open issues**: 207 · **Commits**: 20925
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 26 | 46 | 0 | 14 | 48 |
-| last60d | 2026-08-02 | 5 | 87 | 69 | 12 | 23 | 181 |
-| 90d | 2026-07-03 | 6 | 122 | 71 | 24 | 31 | 267 |
-| last180d | 2026-04-04 | 11 | 312 | 78 | 80 | 102 | 696 |
-| 360d | 2025-10-06 | 23 | 693 | 80 | 180 | 151 | 1696 |
-| last720d | 2024-10-11 | 39 | 1001 | 80 | 417 | 195 | 2745 |
+| 30d | 2026-09-02 | 4 | 31 | 47 | 2 | 12 | 62 |
+| last60d | 2026-08-03 | 7 | 90 | 70 | 14 | 21 | 195 |
+| 90d | 2026-07-04 | 8 | 127 | 72 | 26 | 29 | 281 |
+| last180d | 2026-04-05 | 13 | 317 | 79 | 82 | 100 | 710 |
+| 360d | 2025-10-07 | 25 | 696 | 81 | 182 | 149 | 1710 |
+| last720d | 2024-10-12 | 41 | 1006 | 81 | 419 | 193 | 2752 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [wasmer-darwin-arm64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-darwin-arm64.tar.gz) | 275.8 MiB | `native/darwin/arm64` |
-| [wasmer-full-source.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-full-source.tar.gz) | 135.0 MiB | `native/unknown` |
-| [wasmer-linux-aarch64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-aarch64.tar.gz) | 275.9 MiB | `native/linux/arm64` |
-| [wasmer-linux-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-amd64.tar.gz) | 292.3 MiB | `native/linux/x64` |
-| [wasmer-linux-riscv64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-riscv64.tar.gz) | 91.9 MiB | `native/linux/riscv64` |
-| [wasmer-windows-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows-amd64.tar.gz) | 165.4 MiB | `native/win/x64` |
-| [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows-gnu64.tar.gz) | 136.9 MiB | `native/win/x64` |
-| [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows.exe) | 109.7 MiB | `native/win/x64` |
+| [wasmer-darwin-arm64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-darwin-arm64.tar.gz) | 272.3 MiB | `native/darwin/arm64` |
+| [wasmer-full-source.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-full-source.tar.gz) | 116.3 MiB | `native/unknown` |
+| [wasmer-linux-aarch64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-aarch64.tar.gz) | 272.3 MiB | `native/linux/arm64` |
+| [wasmer-linux-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-amd64.tar.gz) | 288.7 MiB | `native/linux/x64` |
+| [wasmer-linux-riscv64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-riscv64.tar.gz) | 90.9 MiB | `native/linux/riscv64` |
+| [wasmer-windows-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-amd64.tar.gz) | 163.1 MiB | `native/win/x64` |
+| [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-gnu64.tar.gz) | 134.4 MiB | `native/win/x64` |
+| [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows.exe) | 108.1 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:52:18Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:36:50Z._

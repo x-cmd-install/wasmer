@@ -14,11 +14,11 @@ x install wasmer
 
 ## 代码洞察
 
-合计: **306,429** 行代码（覆盖前 5 种语言、共 **1614** 个文件）。
+合计: **306,590** 行代码（覆盖前 5 种语言、共 **1614** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 265,616 | 11,410 | 31,642 | 1212 |
+| Rust | 265,777 | 11,420 | 31,653 | 1212 |
 | C | 15,868 | 1,081 | 3,400 | 291 |
 | Graphql | 7,675 | 0 | 707 | 1 |
 | Cpp | 5,174 | 356 | 1,194 | 64 |
@@ -42,41 +42,41 @@ x install wasmer
 
 ## 发布
 
-- **最新版本**: `v7.4.2` (2026-09-16)
-- **最近提交**: 2026-09-30
+- **最新版本**: `v7.5.0` (2026-10-01)
+- **最近提交**: 2026-10-01
 - **Release 含资产**: 8 个
 
 ## 流行度
 
-- **Star**: 21,110 · **Fork**: 1,017 · **开放 issue**: 2,422 · **贡献者**: 240
+- **Star**: 21,112 · **Fork**: 1,018 · **开放 issue**: 2,422 · **贡献者**: 240
 
 ## 累计统计
 
-- **发布数**: 142 · **已合并 PR**: 3495 · **开放 PR**: 80 · **已关闭 issue**: 2213 · **开放 issue**: 209 · **提交数**: 20918
+- **发布数**: 144 · **已合并 PR**: 3500 · **开放 PR**: 81 · **已关闭 issue**: 2215 · **开放 issue**: 207 · **提交数**: 20925
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 2 | 26 | 46 | 0 | 14 | 48 |
-| last60d | 2026-08-02 | 5 | 87 | 69 | 12 | 23 | 181 |
-| 90d | 2026-07-03 | 6 | 122 | 71 | 24 | 31 | 267 |
-| last180d | 2026-04-04 | 11 | 312 | 78 | 80 | 102 | 696 |
-| 360d | 2025-10-06 | 23 | 693 | 80 | 180 | 151 | 1696 |
-| last720d | 2024-10-11 | 39 | 1001 | 80 | 417 | 195 | 2745 |
+| 30d | 2026-09-02 | 4 | 31 | 47 | 2 | 12 | 62 |
+| last60d | 2026-08-03 | 7 | 90 | 70 | 14 | 21 | 195 |
+| 90d | 2026-07-04 | 8 | 127 | 72 | 26 | 29 | 281 |
+| last180d | 2026-04-05 | 13 | 317 | 79 | 82 | 100 | 710 |
+| 360d | 2025-10-07 | 25 | 696 | 81 | 182 | 149 | 1710 |
+| last720d | 2024-10-12 | 41 | 1006 | 81 | 419 | 193 | 2752 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [wasmer-darwin-arm64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-darwin-arm64.tar.gz) | 275.8 MiB | `native/darwin/arm64` |
-| [wasmer-full-source.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-full-source.tar.gz) | 135.0 MiB | `native/unknown` |
-| [wasmer-linux-aarch64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-aarch64.tar.gz) | 275.9 MiB | `native/linux/arm64` |
-| [wasmer-linux-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-amd64.tar.gz) | 292.3 MiB | `native/linux/x64` |
-| [wasmer-linux-riscv64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-linux-riscv64.tar.gz) | 91.9 MiB | `native/linux/riscv64` |
-| [wasmer-windows-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows-amd64.tar.gz) | 165.4 MiB | `native/win/x64` |
-| [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows-gnu64.tar.gz) | 136.9 MiB | `native/win/x64` |
-| [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.4.2/wasmer-windows.exe) | 109.7 MiB | `native/win/x64` |
+| [wasmer-darwin-arm64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-darwin-arm64.tar.gz) | 272.3 MiB | `native/darwin/arm64` |
+| [wasmer-full-source.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-full-source.tar.gz) | 116.3 MiB | `native/unknown` |
+| [wasmer-linux-aarch64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-aarch64.tar.gz) | 272.3 MiB | `native/linux/arm64` |
+| [wasmer-linux-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-amd64.tar.gz) | 288.7 MiB | `native/linux/x64` |
+| [wasmer-linux-riscv64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-riscv64.tar.gz) | 90.9 MiB | `native/linux/riscv64` |
+| [wasmer-windows-amd64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-amd64.tar.gz) | 163.1 MiB | `native/win/x64` |
+| [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-gnu64.tar.gz) | 134.4 MiB | `native/win/x64` |
+| [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows.exe) | 108.1 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -87,4 +87,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261001.yml` · 2026-10-01T06:52:19Z._
+_数据快照: `data/card/261002.yml` · 2026-10-02T06:36:51Z._
