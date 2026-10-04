@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.5.0` (2026-10-01)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-03
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,118 · **Forks**: 1,020 · **Open issues**: 2,422 · **Contributors**: 240
+- **Stars**: 21,123 · **Forks**: 1,020 · **Open issues**: 2,422 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 3508 · **Open PRs**: 76 · **Closed issues**: 2215 · **Open issues**: 207 · **Commits**: 20972
+- **Releases**: 144 · **Merged PRs**: 3510 · **Open PRs**: 76 · **Closed issues**: 2216 · **Open issues**: 206 · **Commits**: 20973
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-03 | 4 | 37 | 44 | 2 | 10 | 131 |
-| last60d | 2026-08-04 | 7 | 97 | 65 | 14 | 20 | 268 |
-| 90d | 2026-07-05 | 8 | 135 | 67 | 26 | 29 | 363 |
-| last180d | 2026-04-06 | 13 | 324 | 74 | 82 | 100 | 792 |
-| 360d | 2025-10-08 | 25 | 701 | 76 | 181 | 149 | 1792 |
-| last720d | 2024-10-13 | 41 | 1014 | 76 | 419 | 193 | 2799 |
+| 30d | 2026-09-04 | 4 | 39 | 42 | 3 | 9 | 124 |
+| last60d | 2026-08-05 | 7 | 96 | 65 | 15 | 19 | 233 |
+| 90d | 2026-07-06 | 8 | 136 | 67 | 27 | 25 | 343 |
+| last180d | 2026-04-07 | 13 | 324 | 74 | 81 | 97 | 755 |
+| 360d | 2025-10-09 | 24 | 703 | 76 | 182 | 148 | 1772 |
+| last720d | 2024-10-14 | 41 | 1016 | 76 | 420 | 192 | 2800 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261003.yml` · 2026-10-03T06:13:48Z._
+_Snapshot: `data/card/261004.yml` · 2026-10-04T06:54:03Z._
