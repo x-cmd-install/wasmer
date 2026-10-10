@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 285576215,
       "digest": "sha256:fd6526fdce3f8c68a8c3139e9b0e438991d04bafda3d0f091bf98c1600ea0401",
-      "download_count": 151,
+      "download_count": 168,
       "created_at": "2026-10-01T09:35:33Z",
       "updated_at": "2026-10-01T09:35:50Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-darwin-arm64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 121899704,
       "digest": "sha256:5504da6c260ab320e768376bf8eea3c409d53e28da035c6281360067a721a672",
-      "download_count": 61,
+      "download_count": 65,
       "created_at": "2026-10-01T09:34:48Z",
       "updated_at": "2026-10-01T09:34:53Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-full-source.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 285544536,
       "digest": "sha256:903dadb34ba984d981a9bdd2ed1e456dab862c4489d65d2498ad5e7cf1a1fe87",
-      "download_count": 88,
+      "download_count": 99,
       "created_at": "2026-10-01T09:35:11Z",
       "updated_at": "2026-10-01T09:35:21Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-aarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 302721336,
       "digest": "sha256:23f99818deaad93859f8bb8292af81f0c39f25aea19eaccfb72fc7c9e8a3fae9",
-      "download_count": 4416,
+      "download_count": 4768,
       "created_at": "2026-10-01T09:35:00Z",
       "updated_at": "2026-10-01T09:35:10Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 95316799,
       "digest": "sha256:98fe9ea5e1806cb16659daace881a3f24fae14d0af32a113c4b52b17f28c2261",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-10-01T09:35:21Z",
       "updated_at": "2026-10-01T09:35:26Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-linux-riscv64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 170987332,
       "digest": "sha256:05ed663fd0db01d5a690e151c976c384d035a8acac7a7710ffb5fcc9d54c917f",
-      "download_count": 166,
+      "download_count": 183,
       "created_at": "2026-10-01T09:34:54Z",
       "updated_at": "2026-10-01T09:35:00Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-amd64.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 140886801,
       "digest": "sha256:39fdc61e6833d754cb0d0bf9be0c05f171e6ad9198de2b56ee31bcb663343adc",
-      "download_count": 26,
+      "download_count": 31,
       "created_at": "2026-10-01T09:35:26Z",
       "updated_at": "2026-10-01T09:35:32Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-gnu64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 113369270,
       "digest": "sha256:145264808db66977cb48e928a13f996a5222a6e2b699442560b722d580b5fa55",
-      "download_count": 684,
+      "download_count": 761,
       "created_at": "2026-10-01T09:34:44Z",
       "updated_at": "2026-10-01T09:34:48Z",
       "browser_download_url": "https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows.exe"
