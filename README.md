@@ -26,7 +26,7 @@ Total: **308,800** lines of code across **1618** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.5.0` (2026-10-01)
-- **Last commit**: 2026-10-13
+- **Last commit**: 2026-10-14
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,155 · **Forks**: 1,025 · **Open issues**: 2,429 · **Contributors**: 240
+- **Stars**: 21,154 · **Forks**: 1,025 · **Open issues**: 2,429 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 3519 · **Open PRs**: 77 · **Closed issues**: 2220 · **Open issues**: 209 · **Commits**: 20985
+- **Releases**: 144 · **Merged PRs**: 3520 · **Open PRs**: 77 · **Closed issues**: 2220 · **Open issues**: 209 · **Commits**: 20986
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 3 | 43 | 32 | 4 | 8 | 127 |
-| last60d | 2026-08-15 | 7 | 88 | 63 | 10 | 22 | 213 |
-| 90d | 2026-07-16 | 8 | 135 | 67 | 23 | 24 | 351 |
-| last180d | 2026-04-17 | 12 | 304 | 74 | 71 | 65 | 729 |
-| 360d | 2025-10-19 | 24 | 706 | 77 | 184 | 149 | 1757 |
-| last720d | 2024-10-24 | 40 | 1004 | 77 | 412 | 193 | 2627 |
+| 30d | 2026-09-15 | 3 | 40 | 32 | 4 | 8 | 128 |
+| last60d | 2026-08-16 | 7 | 88 | 63 | 10 | 22 | 214 |
+| 90d | 2026-07-17 | 8 | 134 | 67 | 23 | 24 | 352 |
+| last180d | 2026-04-18 | 12 | 305 | 74 | 71 | 65 | 730 |
+| 360d | 2025-10-20 | 24 | 706 | 77 | 183 | 149 | 1758 |
+| last720d | 2024-10-25 | 40 | 1004 | 77 | 411 | 193 | 2602 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:56:08Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:35:36Z._
