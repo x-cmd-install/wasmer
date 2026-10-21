@@ -14,11 +14,11 @@ x install wasmer
 
 ## Code insight
 
-Total: **308,799** lines of code across **1618** files in the top 5 languages.
+Total: **308,802** lines of code across **1618** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 267,484 | 11,537 | 31,815 | 1214 |
+| Rust | 267,487 | 11,537 | 31,815 | 1214 |
 | C | 16,002 | 1,089 | 3,431 | 293 |
 | Graphql | 7,675 | 0 | 707 | 1 |
 | Cpp | 5,174 | 356 | 1,194 | 64 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v7.5.0` (2026-10-01)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-10-20
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 21,174 · **Forks**: 1,026 · **Open issues**: 2,432 · **Contributors**: 240
+- **Stars**: 21,182 · **Forks**: 1,025 · **Open issues**: 2,433 · **Contributors**: 240
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 3522 · **Open PRs**: 77 · **Closed issues**: 2220 · **Open issues**: 212 · **Commits**: 20988
+- **Releases**: 144 · **Merged PRs**: 3523 · **Open PRs**: 81 · **Closed issues**: 2220 · **Open issues**: 213 · **Commits**: 20989
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 38 | 30 | 4 | 11 | 87 |
-| last60d | 2026-08-21 | 7 | 74 | 62 | 9 | 23 | 180 |
-| 90d | 2026-07-22 | 8 | 135 | 67 | 21 | 27 | 338 |
-| last180d | 2026-04-23 | 12 | 295 | 74 | 67 | 63 | 713 |
-| 360d | 2025-10-25 | 24 | 690 | 77 | 177 | 148 | 1726 |
-| last720d | 2024-10-30 | 39 | 996 | 77 | 397 | 194 | 2540 |
+| 30d | 2026-09-21 | 2 | 38 | 33 | 4 | 11 | 89 |
+| last60d | 2026-08-22 | 5 | 74 | 66 | 9 | 24 | 182 |
+| 90d | 2026-07-23 | 8 | 129 | 71 | 21 | 28 | 340 |
+| last180d | 2026-04-24 | 12 | 295 | 77 | 66 | 63 | 715 |
+| 360d | 2025-10-26 | 24 | 691 | 81 | 177 | 149 | 1728 |
+| last720d | 2024-10-31 | 39 | 996 | 81 | 397 | 195 | 2529 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:49:21Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:41:32Z._
