@@ -1,25 +1,9 @@
-- repo: openpkg_current
+- repo: conancenter
   srcname: wasmer
   visiblename: wasmer
-  version: 5.0.4
+  version: 2.1.1
   origversion: null
-  status: outdated
-  summary: WebAssembly Runtime
-  licenses:
-    - MIT
-  categories:
-    - Web
-- repo: parabola
-  subrepo: extra
-  srcname: wasmer
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.5.0
-  origversion: 7.5.0-1
-  status: newest
-  summary: Universal Binaries Powered by WebAssembly
-  licenses:
-    - MIT
+  status: legacy
 - repo: arch
   subrepo: extra
   srcname: wasmer
@@ -115,15 +99,6 @@
   version: 3.0.2
   origversion: null
   status: legacy
-- repo: scoop
-  subrepo: main
-  binname: wasmer
-  visiblename: wasmer
-  version: 7.5.0
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
@@ -136,19 +111,13 @@
   version: 2.2.0
   origversion: null
   status: legacy
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 2.1.1
-  origversion: null
-  status: legacy
 - repo: freebsd
   srcname: devel/wasmer
   binname: wasmer
   visiblename: devel/wasmer
-  version: 7.4.0
-  origversion: 7.4.0_2
-  status: outdated
+  version: 7.5.0
+  origversion: null
+  status: newest
   summary: WebAssembly Runtime supporting WASIX, WASI and Emscripten
   maintainers:
     - kjozic@gmail.com
@@ -287,6 +256,37 @@
   summary: Universal WebAssembly Runtime
   maintainers:
     - nickcao@nichi.co
+  licenses:
+    - MIT
+- repo: openpkg_current
+  srcname: wasmer
+  visiblename: wasmer
+  version: 5.0.4
+  origversion: null
+  status: outdated
+  summary: WebAssembly Runtime
+  licenses:
+    - MIT
+  categories:
+    - Web
+- repo: parabola
+  subrepo: extra
+  srcname: wasmer
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.5.0
+  origversion: 7.5.0-1
+  status: newest
+  summary: Universal Binaries Powered by WebAssembly
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: wasmer
+  visiblename: wasmer
+  version: 7.5.0
+  origversion: null
+  status: newest
   licenses:
     - MIT
 - repo: t2
