@@ -1,9 +1,10 @@
-- repo: conancenter
+- repo: homebrew
   srcname: wasmer
   visiblename: wasmer
-  version: 2.1.1
+  version: 7.5.0
   origversion: null
-  status: legacy
+  status: newest
+  summary: Universal WebAssembly Runtime
 - repo: arch
   subrepo: extra
   srcname: wasmer
@@ -63,6 +64,13 @@
   version: 4.2.5
   origversion: null
   status: legacy
+- repo: homebrew
+  srcname: wasmer
+  visiblename: wasmer
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Universal WebAssembly Runtime
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
@@ -111,6 +119,12 @@
   version: 2.2.0
   origversion: null
   status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 2.1.1
+  origversion: null
+  status: legacy
 - repo: freebsd
   srcname: devel/wasmer
   binname: wasmer
@@ -123,20 +137,6 @@
     - kjozic@gmail.com
   categories:
     - devel
-- repo: homebrew
-  srcname: wasmer
-  visiblename: wasmer
-  version: 7.5.0
-  origversion: null
-  status: newest
-  summary: Universal WebAssembly Runtime
-- repo: homebrew
-  srcname: wasmer
-  visiblename: wasmer
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Universal WebAssembly Runtime
 - repo: macports
   srcname: lang/wasmer
   binname: wasmer
