@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,214 · **Forks**: 1,033 · **Open issues**: 2,435 · **Contributors**: 244
+- **Stars**: 21,217 · **Forks**: 1,033 · **Open issues**: 2,435 · **Contributors**: 244
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 27 | 8 | 5 | 8 | 107 |
-| last60d | 2026-09-02 | 4 | 75 | 33 | 9 | 18 | 252 |
-| 90d | 2026-08-03 | 7 | 138 | 48 | 21 | 27 | 375 |
-| last180d | 2026-05-05 | 11 | 299 | 54 | 59 | 50 | 773 |
-| 360d | 2025-11-06 | 24 | 703 | 58 | 179 | 146 | 1787 |
-| last720d | 2024-11-11 | 38 | 1008 | 58 | 387 | 190 | 2529 |
+| 30d | 2026-10-03 | 0 | 26 | 8 | 5 | 8 | 107 |
+| last60d | 2026-09-03 | 4 | 75 | 33 | 9 | 16 | 252 |
+| 90d | 2026-08-04 | 7 | 137 | 48 | 21 | 26 | 375 |
+| last180d | 2026-05-06 | 11 | 295 | 54 | 56 | 47 | 773 |
+| 360d | 2025-11-07 | 24 | 702 | 58 | 178 | 146 | 1787 |
+| last720d | 2024-11-12 | 38 | 1006 | 58 | 387 | 190 | 2515 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **36** distros on [repology.org](https://repology.org/project/wasmer). **12** are ✅ on the latest upstream release, **8** are ⚠️ on an older version.
+Reported by **36** distros on [repology.org](https://repology.org/project/wasmer). **11** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:07:06Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:10:53Z._
