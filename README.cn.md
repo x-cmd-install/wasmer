@@ -26,13 +26,13 @@ x install wasmer
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5 / 10**
+总评分: **5.2 / 10**
 
 评分最低的几项:
 
+- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## 源代码
 
@@ -48,22 +48,22 @@ x install wasmer
 
 ## 流行度
 
-- **Star**: 21,220 · **Fork**: 1,034 · **开放 issue**: 2,435 · **贡献者**: 248
+- **Star**: 21,221 · **Fork**: 1,035 · **开放 issue**: 2,435 · **贡献者**: 248
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 3560 · **开放 PR**: 59 · **已关闭 issue**: 2225 · **开放 issue**: 210 · **提交数**: 21089
+- **发布数**: 144 · **已合并 PR**: 3561 · **开放 PR**: 58 · **已关闭 issue**: 2225 · **开放 issue**: 210 · **提交数**: 21090
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 34 | 9 | 2 | 7 | 96 |
-| last60d | 2026-09-05 | 4 | 82 | 33 | 9 | 16 | 218 |
-| 90d | 2026-08-06 | 7 | 142 | 48 | 21 | 25 | 310 |
-| last180d | 2026-05-08 | 11 | 304 | 55 | 55 | 47 | 588 |
-| 360d | 2025-11-09 | 24 | 713 | 59 | 178 | 145 | 1324 |
-| last720d | 2024-11-14 | 38 | 1016 | 59 | 386 | 189 | 2520 |
+| 30d | 2026-10-06 | 0 | 35 | 8 | 2 | 7 | 97 |
+| last60d | 2026-09-06 | 4 | 83 | 32 | 9 | 15 | 219 |
+| 90d | 2026-08-07 | 7 | 139 | 47 | 14 | 25 | 311 |
+| last180d | 2026-05-09 | 11 | 302 | 54 | 55 | 47 | 589 |
+| 360d | 2025-11-10 | 24 | 708 | 58 | 178 | 145 | 1325 |
+| last720d | 2024-11-15 | 38 | 1015 | 58 | 382 | 189 | 2520 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261104.yml` · 2026-11-04T07:26:44Z._
+_数据快照: `data/card/261105.yml` · 2026-11-05T07:46:17Z._
