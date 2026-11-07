@@ -1,24 +1,16 @@
-- repo: conancenter
+- repo: nix_stable_25_11
   srcname: wasmer
   visiblename: wasmer
-  version: 4.3.3
+  version: 5.0.4
   origversion: null
-  status: legacy
-- repo: wikidata
-  srcname: Q105554548
-  visiblename: Wasmer
-  version: 7.5.0
-  origversion: null
-  status: newest
-  summary: WebAssembly runtime
+  status: outdated
+  summary: Universal WebAssembly Runtime
+  maintainers:
+    - brightone@protonmail.com
+    - sgn.hamilton@protonmail.com
+    - nickcao@nichi.co
   licenses:
-    - MIT License
-- repo: conancenter
-  srcname: wasmer
-  visiblename: wasmer
-  version: 4.4.0
-  origversion: null
-  status: legacy
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: wasmer
@@ -48,6 +40,18 @@
   version: 5.0.0
   origversion: null
   status: outdated
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 4.4.0
+  origversion: null
+  status: legacy
+- repo: conancenter
+  srcname: wasmer
+  visiblename: wasmer
+  version: 4.3.3
+  origversion: null
+  status: legacy
 - repo: conancenter
   srcname: wasmer
   visiblename: wasmer
@@ -165,9 +169,9 @@
   srcname: wasmer
   binname: wasmer
   visiblename: wasmer
-  version: 4.2.0
-  origversion: 4.2.0-1
-  status: outdated
+  version: 7.5.0
+  origversion: 7.5.0-1
+  status: newest
   summary: Universal Binaries Powered by WebAssembly
   licenses:
     - MIT
@@ -176,9 +180,9 @@
   srcname: wasmer
   binname: wasmer
   visiblename: wasmer
-  version: 4.2.0
-  origversion: 4.2.0-1
-  status: outdated
+  version: 7.5.0
+  origversion: 7.5.0-1
+  status: newest
   summary: Universal Binaries Powered by WebAssembly
   licenses:
     - MIT
@@ -232,19 +236,6 @@
     - nickcao@nichi.co
   licenses:
     - MIT
-- repo: nix_stable_25_11
-  srcname: wasmer
-  visiblename: wasmer
-  version: 5.0.4
-  origversion: null
-  status: outdated
-  summary: Universal WebAssembly Runtime
-  maintainers:
-    - brightone@protonmail.com
-    - sgn.hamilton@protonmail.com
-    - nickcao@nichi.co
-  licenses:
-    - MIT
 - repo: nix_stable_26_05
   srcname: wasmer
   visiblename: wasmer
@@ -267,17 +258,6 @@
     - nickcao@nichi.co
   licenses:
     - MIT
-- repo: openpkg_current
-  srcname: wasmer
-  visiblename: wasmer
-  version: 5.0.4
-  origversion: null
-  status: outdated
-  summary: WebAssembly Runtime
-  licenses:
-    - MIT
-  categories:
-    - Web
 - repo: parabola
   subrepo: extra
   srcname: wasmer
@@ -321,3 +301,12 @@
   summary: A fast and secure WebAssembly runtime
   maintainers:
     - termux@github
+- repo: wikidata
+  srcname: Q105554548
+  visiblename: Wasmer
+  version: 7.5.0
+  origversion: null
+  status: newest
+  summary: WebAssembly runtime
+  licenses:
+    - MIT License
