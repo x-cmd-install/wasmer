@@ -26,11 +26,11 @@ Total: **310,157** lines of code across **1612** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 21,231 · **Forks**: 1,037 · **Open issues**: 2,437 · **Contributors**: 249
+- **Stars**: 21,235 · **Forks**: 1,037 · **Open issues**: 2,438 · **Contributors**: 249
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 3567 · **Open PRs**: 60 · **Closed issues**: 2228 · **Open issues**: 209 · **Commits**: 21108
+- **Releases**: 144 · **Merged PRs**: 3567 · **Open PRs**: 62 · **Closed issues**: 2229 · **Open issues**: 209 · **Commits**: 21108
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 38 | 8 | 2 | 8 | 102 |
-| last60d | 2026-09-11 | 3 | 84 | 25 | 7 | 14 | 246 |
-| 90d | 2026-08-12 | 7 | 144 | 49 | 14 | 27 | 316 |
-| last180d | 2026-05-14 | 11 | 301 | 56 | 51 | 49 | 587 |
-| 360d | 2025-11-15 | 24 | 707 | 60 | 178 | 145 | 1324 |
-| last720d | 2024-11-20 | 38 | 1017 | 60 | 378 | 188 | 2524 |
+| 30d | 2026-10-12 | 0 | 35 | 10 | 3 | 7 | 102 |
+| last60d | 2026-09-12 | 3 | 84 | 27 | 8 | 14 | 246 |
+| 90d | 2026-08-13 | 7 | 139 | 50 | 15 | 27 | 316 |
+| last180d | 2026-05-15 | 11 | 299 | 58 | 52 | 48 | 587 |
+| 360d | 2025-11-16 | 24 | 707 | 62 | 179 | 145 | 1324 |
+| last720d | 2024-11-21 | 38 | 1017 | 62 | 379 | 188 | 2512 |
 
 ## Release assets
 
@@ -97,4 +97,4 @@ Install metadata for wasmer lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:21:11Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:49:47Z._

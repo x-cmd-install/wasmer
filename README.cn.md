@@ -26,11 +26,11 @@ x install wasmer
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 8/19 approved changesets -- score normalized to 4
+- **Code-Review** (3/10) — Found 6/17 approved changesets -- score normalized to 3
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
@@ -48,22 +48,22 @@ x install wasmer
 
 ## 流行度
 
-- **Star**: 21,231 · **Fork**: 1,037 · **开放 issue**: 2,437 · **贡献者**: 249
+- **Star**: 21,235 · **Fork**: 1,037 · **开放 issue**: 2,438 · **贡献者**: 249
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 3567 · **开放 PR**: 60 · **已关闭 issue**: 2228 · **开放 issue**: 209 · **提交数**: 21108
+- **发布数**: 144 · **已合并 PR**: 3567 · **开放 PR**: 62 · **已关闭 issue**: 2229 · **开放 issue**: 209 · **提交数**: 21108
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 38 | 8 | 2 | 8 | 102 |
-| last60d | 2026-09-11 | 3 | 84 | 25 | 7 | 14 | 246 |
-| 90d | 2026-08-12 | 7 | 144 | 49 | 14 | 27 | 316 |
-| last180d | 2026-05-14 | 11 | 301 | 56 | 51 | 49 | 587 |
-| 360d | 2025-11-15 | 24 | 707 | 60 | 178 | 145 | 1324 |
-| last720d | 2024-11-20 | 38 | 1017 | 60 | 378 | 188 | 2524 |
+| 30d | 2026-10-12 | 0 | 35 | 10 | 3 | 7 | 102 |
+| last60d | 2026-09-12 | 3 | 84 | 27 | 8 | 14 | 246 |
+| 90d | 2026-08-13 | 7 | 139 | 50 | 15 | 27 | 316 |
+| last180d | 2026-05-15 | 11 | 299 | 58 | 52 | 48 | 587 |
+| 360d | 2025-11-16 | 24 | 707 | 62 | 179 | 145 | 1324 |
+| last720d | 2024-11-21 | 38 | 1017 | 62 | 379 | 188 | 2512 |
 
 ## Release 资产
 
@@ -97,4 +97,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261110.yml` · 2026-11-10T08:21:12Z._
+_数据快照: `data/card/261111.yml` · 2026-11-11T07:49:48Z._
