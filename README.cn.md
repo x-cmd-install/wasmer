@@ -48,22 +48,22 @@ x install wasmer
 
 ## 流行度
 
-- **Star**: 21,266 · **Fork**: 1,043 · **开放 issue**: 2,441 · **贡献者**: 248
+- **Star**: 21,265 · **Fork**: 1,042 · **开放 issue**: 2,441 · **贡献者**: 247
 
 ## 累计统计
 
-- **发布数**: 144 · **已合并 PR**: 3590 · **开放 PR**: 25 · **已关闭 issue**: 2252 · **开放 issue**: 189 · **提交数**: 21154
+- **发布数**: 144 · **已合并 PR**: 3589 · **开放 PR**: 16 · **已关闭 issue**: 2253 · **开放 issue**: 188 · **提交数**: 21154
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 41 | 6 | 2 | 25 | 96 |
-| last60d | 2026-09-27 | 2 | 83 | 15 | 10 | 29 | 245 |
-| 90d | 2026-08-28 | 5 | 123 | 21 | 15 | 37 | 325 |
-| last180d | 2026-05-30 | 11 | 285 | 25 | 53 | 56 | 591 |
-| 360d | 2025-12-01 | 24 | 694 | 25 | 180 | 132 | 1279 |
-| last720d | 2024-12-06 | 37 | 1030 | 25 | 390 | 169 | 2463 |
+| 30d | 2026-10-28 | 0 | 40 | 6 | 2 | 25 | 96 |
+| last60d | 2026-09-28 | 2 | 83 | 12 | 10 | 29 | 245 |
+| 90d | 2026-08-29 | 5 | 123 | 12 | 15 | 37 | 325 |
+| last180d | 2026-05-31 | 11 | 284 | 16 | 53 | 56 | 591 |
+| 360d | 2025-12-02 | 24 | 692 | 16 | 180 | 132 | 1279 |
+| last720d | 2024-12-07 | 37 | 1029 | 16 | 391 | 168 | 2446 |
 
 ## Release 资产
 
@@ -78,16 +78,6 @@ x install wasmer
 | [wasmer-windows-gnu64.tar.gz](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows-gnu64.tar.gz) | 134.4 MiB | `native/win/x64` |
 | [wasmer-windows.exe](https://github.com/wasmerio/wasmer/releases/download/v7.5.0/wasmer-windows.exe) | 108.1 MiB | `native/win/x64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/wasmer) 上共有 **35** 个发行版报告此项目。**13** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Arch | `7.5.0` | ✅ latest |
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `7.5.0` | ✅ latest |
-
 ## 改进这些数据
 
 wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `wasmer` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -97,4 +87,4 @@ wasmer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:19:15Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:27:11Z._
